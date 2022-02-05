@@ -15,6 +15,7 @@
         <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/online-now.gif" width="80" height="20" border="0"/>
       </td>
       <td>
+        <br />
         <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/marquee-about.gif" width="254" height="40" alt="About me">
         <br />
         <br />
@@ -29,6 +30,8 @@
         <a href="https://charlottecameron.dev"><img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/star-red.gif" alt="" /> Visit my personal website <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/star-red.gif" alt="" /></a>
         <br/>
         <a href="https://github.com/charlotte-l/charlotte-l/issues/new?template=guestbook_entry.md"><img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/star-blue.gif" alt="" /> Leave a message in my guestbook <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/star-blue.gif" alt="" /></a>
+        <br />
+        <br />
       </td>
     </tr>
   </table>
