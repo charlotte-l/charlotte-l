@@ -15,7 +15,7 @@
         <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/online-now.gif" width="80" height="20" border="0"/>
       </td>
       <td>
-        <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/marquee-about.gif" alt="About me">
+        <img src="https://github.com/charlotte-l/charlotte-l/raw/main/images/marquee-about.gif" width="254" height="40" alt="About me">
         <br />
         <br />
         ♡ ♥ ♡ Welcome to my GitHub Profile ♡ ♥ ♡ ǝlıɟoɹԀ qnHʇı⅁ oʇ ǝɯoɔlǝM ♡ ♥ ♡
