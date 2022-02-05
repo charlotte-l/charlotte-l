@@ -5,7 +5,7 @@ title: ''
 ---
 
 <div align="center">
-  <img src="https://github.com/charlotte-l/charlotte-l/blob/main/images/guestbook.gif" alt="Sign my Guestbook" />
+  <img src="https://github.com/charlotte-l/charlotte-l/blob/main/images/guestbook.gif?raw=true" alt="Sign my Guestbook" />
   <br />
 </div>
 
